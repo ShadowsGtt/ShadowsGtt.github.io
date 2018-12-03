@@ -1,5 +1,5 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "My first blog"
 search: false
 categories: 
   - Jekyll
