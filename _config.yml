@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Shadow"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/gt.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "where there is a will,there is a way"
   location         : "Shen Zhen"
   email            : "shadowsgtt@gmail.com"
   links:
     - label: "Gmail"
       icon: "shadowsgtt@gmail.com"
-      url:  "shadowsgtt@gmail.com" 
+      #url:  "shadowsgtt@gmail.com" 
     - label: "shadowsgtt@gmail.com"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
