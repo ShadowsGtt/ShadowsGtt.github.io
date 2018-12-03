@@ -113,7 +113,7 @@ author:
   links:
     - label: "Gmail"
       icon: "shadowsgtt@gmail.com"
-      #url:  "shadowsgtt@gmail.com" 
+      url:  "shadowsgtt@gmail.com" 
     - label: "shadowsgtt@gmail.com"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ShadowsGtt/"
+    #   url: "https://github.com/ShadowsGtt/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
