@@ -109,7 +109,7 @@ author:
   avatar           : "/assets/image/gt.jpg" #个人照路径
   bio              : "where there is a will,there is a way"
   location         : "Shen Zhen"
-  email            : "shadowsgtt@gmail.com"
+  #email            : "shadowsgtt@gmail.com"
   links:
     - label: "GitHub"
       icon: "fas fa-fw fa-link"
