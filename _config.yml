@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "高甜"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "where there is a will,there is a way"
   location         : "Somewhere"
-  email            :
+  email            :shadowsgtt@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
