@@ -102,13 +102,14 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+#个人信息
 # Site Author
 author:
   name             : "Shadow"
-  avatar           : "/assets/image/gt.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/gt.jpg" #个人照路径
   bio              : "where there is a will,there is a way"
   location         : "Shen Zhen"
-  email            : "shadowsgtt@gmail.com"
+  #email            : "shadowsgtt@gmail.com"
   links:
     - label: "Gmail"
       icon: "shadowsgtt@gmail.com"
