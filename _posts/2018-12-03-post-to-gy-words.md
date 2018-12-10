@@ -1,9 +1,7 @@
 ---
 title:  "Come on !"
 search: false
-categories: 
-  - Jekyll
-last_modified_at: 2018-02-19T08:05:34-05:00
+author: Shadow
 ---
 #最后的十几天加油加油加油!!!
 
