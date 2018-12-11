@@ -1,6 +1,6 @@
 ---
-    title: "Git学习---<Git与GitHub>"
-    Author:"Shadow"
+title: "Git学习---<Git与GitHub>"
+author: "Shadow"
 ---
 
 ## 什么是Git?
