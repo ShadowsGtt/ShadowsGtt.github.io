@@ -1,5 +1,5 @@
 ---
-title: "<GitLearn-03> 新建Git仓库并配置"
+title: "[GitLearn-03] 新建Git仓库并配置"
 search: false
 author: "Shadow"
 ---
