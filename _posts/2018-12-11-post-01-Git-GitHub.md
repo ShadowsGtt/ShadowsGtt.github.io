@@ -1,5 +1,5 @@
 ---
-title: "<GitLearn-01> Git & GitHub"
+title: "[GitLearn-01] Git & GitHub"
 search: false
 author: "Shadow"
 ---
