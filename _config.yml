@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Shadow"
-  avatar           : "/mydata/image/gt.jpg" #个人照路径
+  avatar           : "/mydata/image/head.jpg" #个人照路径
   bio              : "where there is a will,there is a way"
   location         : "Shen Zhen"
   email            : "shadowsgtt@gmail.com"
