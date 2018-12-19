@@ -7,7 +7,7 @@ author: "Shadow"
 
 ## **Git使用手册**  
 &emsp;&emsp;网址:<a href="https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html" target="_blank">Git使用手册(英文版)</a>  
-&emsp;&emsp;个人点评:毕竟来自官网，介绍的很全很详细，阔是全文木有汉字，脑阔疼~不过你可以用google chorme翻译  
+&emsp;&emsp;个人点评:毕竟来自官网，很全很详细，阔是全文木有汉字，脑阔疼~还好可以用chorme翻译  
 &emsp;&emsp;推荐指数:🌟🌟  
 
 
@@ -29,7 +29,7 @@ author: "Shadow"
 
 ## **交互式Git**  
 &emsp;&emsp;网址:<a href="https://learngitbranching.js.org/" target="_blank">交互式Git</a>  
-&emsp;&emsp;个人点评:就像游戏一样去学习Git，你输入的每个Git命令都会在右侧以图像的形式被直观的表达  
+&emsp;&emsp;个人点评:引导式学习，实时观测没个命令后Git的变化  
 &emsp;&emsp;推荐指数:🌟🌟🌟🌟🌟  
 
 
